@@ -1,4 +1,4 @@
-name: libero
+name: flex-libero
 channels:
   - conda-forge
 dependencies:
